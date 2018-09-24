@@ -6,8 +6,18 @@ Cap analysis of gene expression (CAGE) is a methodology for genome-wide quantita
 ## Requirements 
 
 * Install following R packages from CRAN: 
-dplyr, tidyr, ggplot2, RColorBrewer, viridis
+dplyr, tidyr, ggplot2, RColorBrewer, viridis, reshape2, cowplot, corrplot, zoo
 
 * Install following R packages from bioconductor:
-CAGEr, Seqpattern, Heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, BSgenome.Mmusculus.UCSC.mm10, GenomicFeatures, org.Mm.eg.db, ChIPseeker, TxDb.Scerevisiae.UCSC.sacCer3.sgdGene, biomaRt
+CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, BSgenome.Mmusculus.UCSC.mm10, TxDb.Mmusculus.UCSC.mm10.knownGene, GenomicFeatures, org.Mm.eg.db, ChIPseeker, TxDb.Scerevisiae.UCSC.sacCer3.sgdGene, biomaRt, Gviz, DESeq2
 
+## Additional information 
+
+* Pre-processing pipelines are available upon request.
+
+* Processed data (*.bam, *.bw, CTSS or tag cluster tables, etc.) and intermediate are available upon request.
+
+## Reference 
+**SLIC-CAGE: high-resolution transcription start site mapping using nanogram-levels of total RNA**
+
+[biorxiv preprint](https://www.biorxiv.org/content/early/2018/07/19/368795)
