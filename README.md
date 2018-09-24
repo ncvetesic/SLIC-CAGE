@@ -6,7 +6,7 @@ Cap analysis of gene expression (CAGE) is a methodology for genome-wide quantita
 ## Requirements 
 
 * Install following R packages from CRAN: 
-dplyr, tidyr, ggplot2, RColorBrewer, viridis, reshape2, cowplot, corrplot, zoo
+dplyr, tidyr, ggplot2, RColorBrewer, viridis, reshape2, cowplot, corrplot, zoo, philentropy
 
 * Install following R packages from bioconductor:
 CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, BSgenome.Mmusculus.UCSC.mm10, TxDb.Mmusculus.UCSC.mm10.knownGene, GenomicFeatures, org.Mm.eg.db, ChIPseeker, TxDb.Scerevisiae.UCSC.sacCer3.sgdGene, biomaRt, Gviz, DESeq2
@@ -16,7 +16,8 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 * Figure 1 [B-D and F-H](analysis/01_pairwise_ctss_corr.R), [E and I](analysis/02_gviz_gbrowser_views.R)  
 * Figure 2 [A](analysis/03_genomic_location_tc.R), [B and F](analysis/04_distribution_iq_width.R), [C and G](analysis/05_CTSS_nucleotide_composition.R), [D and H](analysis/06_CTSS_dinucleotide_composition.R)  
 * Figure 3 [A-F](analysis/01_pairwise_ctss_corr.R), [G](analysis/02_gviz_gbrowser_views.R), [H](analysis/03_genomic_location_tc.R), [I](analysis/04_distribution_iq_width.R), [J](analysis/05_CTSS_nucleotide_composition.R), [K](analysis/06_CTSS_dinucleotide_composition.R)  
-* Figure 4 [A-C](analysis/07_heatmaps_TA_TATA_GC.R), [D](analysis/08_WW_periodicity_metaplot.R), [E](09_tag_cluster_coverage.R), [F-G](analysis/10_H3K4me3_coverage.R)
+* Figure 4 [A-C](analysis/07_heatmaps_TA_TATA_GC.R), [D](analysis/08_WW_periodicity_metaplot.R), [E](09_tag_cluster_coverage.R), [F-G](analysis/10_H3K4me3_coverage.R), [H-I](analysis/11_CpG_island_coverage.R)  
+* Figure 5
 
 
 ## Additional information 
