@@ -11,6 +11,11 @@ dplyr, tidyr, ggplot2, RColorBrewer, viridis, reshape2, cowplot, corrplot, zoo
 * Install following R packages from bioconductor:
 CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, BSgenome.Mmusculus.UCSC.mm10, TxDb.Mmusculus.UCSC.mm10.knownGene, GenomicFeatures, org.Mm.eg.db, ChIPseeker, TxDb.Scerevisiae.UCSC.sacCer3.sgdGene, biomaRt, Gviz, DESeq2
 
+## Figure to code map 
+
+* Figure 1
+[B-D, F-H](analysis/01_pairwise_ctss_corr.R),
+
 ## Additional information 
 
 * Pre-processing pipelines are available upon request.
