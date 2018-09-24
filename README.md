@@ -13,8 +13,8 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 
 ## Figure to code map 
 
-* Figure 1
-[B-D, F-H](analysis/01_pairwise_ctss_corr.R),
+* Figure 1 [B-D and F-H](analysis/01_pairwise_ctss_corr.R), [E and I](analysis/02_gviz_gbrowser_views.R)
+
 
 ## Additional information 
 
