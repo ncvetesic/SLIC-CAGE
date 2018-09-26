@@ -17,7 +17,15 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 * Figure 2 [A](analysis/03_genomic_location_tc.R), [B and F](analysis/04_distribution_iq_width.R), [C and G](analysis/05_CTSS_nucleotide_composition.R), [D and H](analysis/06_CTSS_dinucleotide_composition.R)  
 * Figure 3 [A-F](analysis/01_pairwise_ctss_corr.R), [G](analysis/02_gviz_gbrowser_views.R), [H](analysis/03_genomic_location_tc.R), [I](analysis/04_distribution_iq_width.R), [J](analysis/05_CTSS_nucleotide_composition.R), [K](analysis/06_CTSS_dinucleotide_composition.R)  
 * Figure 4 [A-C](analysis/07_heatmaps_TA_TATA_GC.R), [D](analysis/08_WW_periodicity_metaplot.R), [E](09_tag_cluster_coverage.R), [F-G](analysis/10_H3K4me3_coverage.R), [H-I](analysis/11_CpG_island_coverage.R)  
-* Figure 5 [A](analysis/12_CAGE_RNAseq_corr.R), [B](analysis/04_distribution_iq_width.R), [C](analysis/03_genomic_location_tc.R), [D](analysis/05_CTSS_nucleotide_composition.R), [E](analysis/06_CTSS_dinucleotide_composition.R), [F](analysis/07_heatmaps_TA_TATA_GC.R), [G](analysis/13_SOM_expression_profiling.R), [H](analysis/14_SOM_clusters_genomic_locations.R) [I](analysis/15_SOM_clusters_GO_analysis.R), [J-K](nalysis/02_gviz_gbrowser_views.R)
+* Figure 5 [A](analysis/12_CAGE_RNAseq_corr.R), [B](analysis/04_distribution_iq_width.R), [C](analysis/03_genomic_location_tc.R), [D](analysis/05_CTSS_nucleotide_composition.R), [E](analysis/06_CTSS_dinucleotide_composition.R), [F](analysis/07_heatmaps_TA_TATA_GC.R), [G](analysis/13_SOM_expression_profiling.R), [H](analysis/14_SOM_clusters_genomic_locations.R), [I](analysis/15_SOM_clusters_GO_analysis.R), [J-K](nalysis/02_gviz_gbrowser_views.R)  
+  
+* Supplemental Figure S1 [C-I](analysis/01_pairwise_ctss_corr.R), [J](analysis/03_genomic_location_tc.R), [K](analysis/04_distribution_iq_width.R), [L](analysis/05_CTSS_nucleotide_composition.R), [M](analysis/06_CTSS_dinucleotide_composition.R)  
+* Supplemental Figure S2 [A-C](6_correlation_matrices.R), [D-F](analysis/03_genomic_location_tc.R), [G-I](analysis/05_CTSS_nucleotide_composition.R), [J-O](analysis/06_CTSS_dinucleotide_composition.R)  
+* Supplemental Figure S3 [S3](analysis/17_low_complex_simulation.R)  
+* Supplemental Figure S4 [A-C](analysis/04_distribution_iq_width.R)  
+* Supplemental Figure S5 [A-C](analysis/18_ROC_curves.R)  
+* Supplemental Figure S6 [S6](analysis/)
+
 
 
 ## Additional information 
