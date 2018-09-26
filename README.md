@@ -17,7 +17,7 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 * Figure 2 [A](analysis/03_genomic_location_tc.R), [B and F](analysis/04_distribution_iq_width.R), [C and G](analysis/05_CTSS_nucleotide_composition.R), [D and H](analysis/06_CTSS_dinucleotide_composition.R)  
 * Figure 3 [A-F](analysis/01_pairwise_ctss_corr.R), [G](analysis/02_gviz_gbrowser_views.R), [H](analysis/03_genomic_location_tc.R), [I](analysis/04_distribution_iq_width.R), [J](analysis/05_CTSS_nucleotide_composition.R), [K](analysis/06_CTSS_dinucleotide_composition.R)  
 * Figure 4 [A-C](analysis/07_heatmaps_TA_TATA_GC.R), [D](analysis/08_WW_periodicity_metaplot.R), [E](09_tag_cluster_coverage.R), [F-G](analysis/10_H3K4me3_coverage.R), [H-I](analysis/11_CpG_island_coverage.R)  
-* Figure 5 [A](analysis/12_CAGE_RNAseq_corr.R)
+* Figure 5 [A](analysis/12_CAGE_RNAseq_corr.R), [B](analysis/04_distribution_iq_width.R), [C](analysis/03_genomic_location_tc.R), [D](analysis/05_CTSS_nucleotide_composition.R), [E](analysis/06_CTSS_dinucleotide_composition.R), [F](analysis/07_heatmaps_TA_TATA_GC.R), [G](analysis/13_SOM_expression_profiling.R), [H](analysis/14_SOM_clusters_genomic_locations.R) [I](analysis/15_SOM_clusters_GO_analysis.R), [J-K](nalysis/02_gviz_gbrowser_views.R)
 
 
 ## Additional information 
