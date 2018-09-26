@@ -1,5 +1,5 @@
 #/*==========================================================================#*/
-#' ## Supplemental Figure S11- dinucl. comp. of domTSS split in g
+#' ## Supplemental Figure S11- dinucl. comp. of domTSS split in genomic loc
 #'
 #/*==========================================================================#*/
 

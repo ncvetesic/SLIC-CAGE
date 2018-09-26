@@ -25,9 +25,12 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 * Supplemental Figure S4 [A-C](analysis/04_distribution_iq_width.R)  
 * Supplemental Figure S5 [A-C](analysis/18_ROC_curves.R)  
 * Supplemental Figure [S6-S8](analysis/19_distance_domTSS_SLIC_nAnTi.R)  
-* Supplemental Figure [S9-S10, S13](analysis/19_distance_domTSS_SLIC_nAnTi.R)  
+* Supplemental Figure [S9-S10, S13](analysis/20_CTSSs_missing_TPM_ratios.R)  
 * [Supplemental Figure S11](analysis/21_domTSS_init_genom_loc.R)  
-* [Supplemental Figure S12]
+* [Supplemental Figure S12](analysis/22_domTSS_init_TPM_strat.R)  
+* Supplemental Figure S14 [A-B](analysis/23_nanoCAGE_XL_corr.R), [C](analysis/19_distance_domTSS_SLIC_nAnTi.R), [D](analysis/analysis/04_distribution_iq_width.R), [E](analysis/03_genomic_location_tc.R), [F](analysis/05_CTSS_nucleotide_composition.R), [G](06_CTSS_dinucleotide_composition.R)  
+
+
 
 
 
