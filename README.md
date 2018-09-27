@@ -34,7 +34,9 @@ CAGEr, SeqPattern, heatmaps, GenomicRanges, BSgenome.Scerevisiae.UCSC.sacCer3, B
 * Supplemental Figure S17 [A](25_IQ_width_distrib_threshold.R), [B](analysis/08_WW_periodicity_metaplot.R), [C](analysis/07_heatmaps_TA_TATA_GC.R), [D](26_TATA_box_metaplot.R)  
 * Supplemental Figure S18 [B](27_CTSS_cons_correlation.R), [C](analysis/03_genomic_location_tc.R), [D](analysis/04_distribution_iq_width.R), [E](analysis/05_CTSS_nucleotide_composition.R), [F](analysis/06_CTSS_dinucleotide_composition.R), [G](analysis/07_heatmaps_TA_TATA_GC.R)  
 * Supplemental Figure S19 [A](27_CTSS_cons_correlation.R), [B](analysis/04_distribution_iq_width.R)  
-* [Supplemental Figure S23](analysis/28_nanoCAGE_cons_corr.R)
+* [Supplemental Figure S23](analysis/28_nanoCAGE_cons_corr.R)  
+  
+For general processing of CAGE libraries starting from bam files see the CAGE processing [script.](analysis/29_CAGE_processing.R)
 
 
 
